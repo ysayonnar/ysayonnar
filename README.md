@@ -12,6 +12,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
 ![Go](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=go)
 
+### LeetCode stats
+![LeetCode](https://leetcard.jacoblin.cool/ysnr1?theme=dark&font=Poppins)
+
 ### Follow me
 
 [![tg](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/ysnrite)
