@@ -11,6 +11,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysayonnar&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+### LeetCode stats
 ![LeetCode](https://leetcard.jacoblin.cool/ysnr1?theme=dark&font=Poppins)
 
 ### Follow me
