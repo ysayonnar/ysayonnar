@@ -10,8 +10,9 @@
 ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
 
-### LeetCode stats
-![LeetCode](https://leetcard.jacoblin.cool/ysnr1?theme=dark&font=Poppins)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysayonnar&theme=tokyonight&show_icons=true)
+
+[![wakatime](https://wakatime.com/badge/user/3bc777bd-368d-4c6c-ab61-b5fd534bc8ee.svg)](https://wakatime.com/@3bc777bd-368d-4c6c-ab61-b5fd534bc8ee)
 
 ### Follow me
 
