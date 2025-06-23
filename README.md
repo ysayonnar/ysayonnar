@@ -3,8 +3,6 @@
 - Golang Developer
 - BSUIR
  
-[![wakatime](https://wakatime.com/badge/user/3bc777bd-368d-4c6c-ab61-b5fd534bc8ee.svg)](https://wakatime.com/@3bc777bd-368d-4c6c-ab61-b5fd534bc8ee)
-
 ### Languages and Tools
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
