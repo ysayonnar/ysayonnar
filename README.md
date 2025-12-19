@@ -14,6 +14,5 @@
 ### Follow me
 
 [Telegram](https://t.me/ysnrite)
-[LinkedIn](https://www.linkedin.com/in/hleb-nahorny-39a6b336a/)
 
 
