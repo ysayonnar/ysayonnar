@@ -1,6 +1,6 @@
 ### About me
 
-- Golang Developer
+- Junior Golang Developer
 - BSUIR
  
 ### Languages and Tools
@@ -12,6 +12,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Follow me
+
+[My CV](https://drive.google.com/file/d/1UlL5ZR0c6b3rmqm6id9nF91mYt-fA4Ik/view)
 
 [Telegram](https://t.me/ysnrite)
 
