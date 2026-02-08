@@ -13,7 +13,7 @@
 
 ### Follow me
 
-[My CV](https://drive.google.com/file/d/1UlL5ZR0c6b3rmqm6id9nF91mYt-fA4Ik/view)
+[My CV](https://drive.google.com/file/d/1Z2tEZv3Lyh7GQQZlvTv2XBwUpoqNuxJG/view?usp=sharing)
 
 [Telegram](https://t.me/ysnrite)
 
