@@ -1,14 +1,31 @@
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=22F787&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Hleb+%F0%9F%98%8C" alt="Typing SVG" /></a>
+</div>
 
-### Languages and Tools
+# 👨🏻‍💻 About Me and My Interests
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+```yaml
+name: Hleb Nahorny
+role: Go Developer
+location: Minsk, Belarus 
+education: BSUIR 
 
-### Follow me
+experience:
+  years_of_experience: 1
+  current_status: "Open to new opportunities"
 
-[Telegram](https://t.me/ysnrite)
+contact:
+  email: "nagornygleb@gmail.com"
+  telegram: "@ysnrite"
 
+focus:
+  - Microservice architecture
+  - Clear API contracts
+  - Reliable persistence layers
+  - High availability & Scalability
+  - Clean code & Best practices
 
+languages:
+  - Russian (Native)
+  - English (B2)
+```
