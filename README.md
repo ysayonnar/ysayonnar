@@ -9,8 +9,6 @@
 
 ### Follow me
 
-[My CV](https://drive.google.com/file/d/1Z2tEZv3Lyh7GQQZlvTv2XBwUpoqNuxJG/view?usp=sharing)
-
 [Telegram](https://t.me/ysnrite)
 
 
