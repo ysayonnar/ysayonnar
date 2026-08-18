@@ -29,3 +29,6 @@ languages:
   - Russian (Native)
   - English (B2)
 ```
+
+# 🛠️ Languages and Tools
+
