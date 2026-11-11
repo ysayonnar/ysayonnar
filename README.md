@@ -6,7 +6,7 @@
 
 ```yaml
 name: Hleb Nahorny
-role: Go Developer
+role: Go/Rust Junior+ Developer
 location: Minsk, Belarus 
 education: BSUIR 
 
@@ -20,6 +20,7 @@ contact:
 
 focus:
   - Microservice architecture
+  - System programming
   - Clear API contracts
   - Reliable persistence layers
   - High availability & Scalability
